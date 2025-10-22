@@ -15,7 +15,10 @@ I am currently strengthening my portfolio by actively tackling diverse datasets 
 | **Libraries** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
 
 ### 📊 My GitHub Stats
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whitetail0821&show_icons=true&theme=default&hide_border=true&count_private=true" alt="JP Chun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitetail0821&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
 ---
 
 ### 📌 Pinned Projects (Key Focus Areas)
@@ -25,7 +28,7 @@ My active repositories below showcase my work in:
 2. Exploratory Data Analysis (EDA)
 3. Predictive Modeling (Machine Learning)
 4. Business Intelligence and Data Visualization
-
+*(Please check the pinned repositories on my profile for detailed READMEs and analysis.)*
 ---
 
 ### 📧 Get In Touch
@@ -36,5 +39,10 @@ My active repositories below showcase my work in:
 | **LinkedIn** | Let's connect for professional networking and collaborations. |
 | **Blog** | My learning journey and deep-dive technical articles. |
 | **Email** | [lov2mind@gmail.com] |
-
+<a href="https://nomadpen.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory%20Data%20Blog-3D5067?style=flat-square&logo=tistory&logoColor=white" alt="Blog Badge"/>
+</a> 
+<a href="mailto:lov2mind@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
 ---
