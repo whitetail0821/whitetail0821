@@ -18,6 +18,7 @@ I am currently strengthening my portfolio by actively tackling diverse datasets 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whitetail0821&show_icons=true&theme=default&hide_border=true&count_private=true" alt="JP Chun's GitHub Stats" />
 </p>
+
 ---
 
 ### 📌 Pinned Projects (Key Focus Areas)
